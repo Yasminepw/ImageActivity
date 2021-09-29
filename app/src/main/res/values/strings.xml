@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ImageActivity</string>
+    <string name="image_selected_above" />
 </resources>
