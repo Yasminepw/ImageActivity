@@ -1,7 +1,7 @@
 package edu.temple.imageactivity
 
 
-class ImageAdapter () {
+class ImageAdapter() {
 
 
 }
