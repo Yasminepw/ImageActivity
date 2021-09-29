@@ -10,7 +10,7 @@
         android:id="@+id/titleTextView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!"
+        android:text="Welcome!"
         android:textSize="20sp"
         app:layout_constraintBottom_toTopOf="@+id/imageView"
         app:layout_constraintLeft_toLeftOf="parent"
